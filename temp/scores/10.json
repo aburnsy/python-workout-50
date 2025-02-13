@@ -1,0 +1,492 @@
+[
+    {
+        "computer_science": 73,
+        "science": 62,
+        "biology": 93
+    },
+    {
+        "music": 90,
+        "science": 51,
+        "history": 67
+    },
+    {
+        "art": 56,
+        "science": 82,
+        "computer_science": 67
+    },
+    {
+        "physics": 77,
+        "economics": 56,
+        "science": 98
+    },
+    {
+        "music": 74,
+        "biology": 81,
+        "chemistry": 94
+    },
+    {
+        "economics": 89,
+        "music": 98,
+        "geography": 74
+    },
+    {
+        "art": 70,
+        "geography": 67,
+        "literature": 74
+    },
+    {
+        "literature": 58,
+        "chemistry": 69,
+        "math": 62
+    },
+    {
+        "literature": 55,
+        "art": 78,
+        "physics": 78
+    },
+    {
+        "literature": 57,
+        "economics": 71,
+        "computer_science": 93
+    },
+    {
+        "computer_science": 92,
+        "music": 54,
+        "geography": 79
+    },
+    {
+        "music": 60,
+        "chemistry": 85,
+        "literature": 88
+    },
+    {
+        "music": 67,
+        "biology": 94,
+        "chemistry": 76
+    },
+    {
+        "science": 96,
+        "economics": 92,
+        "biology": 96
+    },
+    {
+        "art": 92,
+        "biology": 50,
+        "geography": 53
+    },
+    {
+        "biology": 92,
+        "literature": 82,
+        "art": 91
+    },
+    {
+        "physics": 86,
+        "math": 94,
+        "biology": 62
+    },
+    {
+        "biology": 66,
+        "history": 52,
+        "art": 86
+    },
+    {
+        "chemistry": 93,
+        "literature": 82,
+        "music": 79
+    },
+    {
+        "history": 55,
+        "math": 90,
+        "geography": 69
+    },
+    {
+        "music": 65,
+        "literature": 50,
+        "economics": 92
+    },
+    {
+        "art": 57,
+        "music": 85,
+        "history": 83
+    },
+    {
+        "physics": 92,
+        "economics": 99,
+        "chemistry": 86
+    },
+    {
+        "math": 68,
+        "chemistry": 68,
+        "biology": 72
+    },
+    {
+        "chemistry": 60,
+        "geography": 86,
+        "math": 82
+    },
+    {
+        "biology": 98,
+        "music": 94,
+        "geography": 84
+    },
+    {
+        "science": 65,
+        "music": 87,
+        "physics": 56
+    },
+    {
+        "economics": 66,
+        "history": 90,
+        "computer_science": 74
+    },
+    {
+        "art": 58,
+        "literature": 86,
+        "biology": 66
+    },
+    {
+        "economics": 82,
+        "geography": 90,
+        "computer_science": 100
+    },
+    {
+        "history": 83,
+        "computer_science": 58,
+        "science": 92
+    },
+    {
+        "chemistry": 95,
+        "biology": 78,
+        "geography": 82
+    },
+    {
+        "economics": 76,
+        "computer_science": 55,
+        "art": 70
+    },
+    {
+        "art": 57,
+        "geography": 51,
+        "math": 99
+    },
+    {
+        "biology": 82,
+        "physics": 82,
+        "geography": 52
+    },
+    {
+        "literature": 82,
+        "music": 73,
+        "science": 78
+    },
+    {
+        "history": 83,
+        "geography": 63,
+        "math": 70
+    },
+    {
+        "economics": 82,
+        "art": 62,
+        "geography": 98
+    },
+    {
+        "science": 82,
+        "literature": 78,
+        "chemistry": 85
+    },
+    {
+        "art": 84,
+        "computer_science": 94,
+        "biology": 85
+    },
+    {
+        "computer_science": 66,
+        "economics": 79,
+        "music": 77
+    },
+    {
+        "science": 98,
+        "geography": 86,
+        "chemistry": 70
+    },
+    {
+        "geography": 81,
+        "economics": 91,
+        "literature": 96
+    },
+    {
+        "math": 54,
+        "history": 61,
+        "science": 80
+    },
+    {
+        "science": 51,
+        "computer_science": 98,
+        "biology": 96
+    },
+    {
+        "science": 59,
+        "music": 72,
+        "history": 74
+    },
+    {
+        "physics": 90,
+        "art": 79,
+        "science": 67
+    },
+    {
+        "math": 98,
+        "music": 61,
+        "art": 95
+    },
+    {
+        "art": 79,
+        "history": 51,
+        "science": 96
+    },
+    {
+        "physics": 98,
+        "art": 58,
+        "literature": 74
+    },
+    {
+        "math": 100,
+        "biology": 57,
+        "chemistry": 67
+    },
+    {
+        "history": 82,
+        "physics": 91,
+        "computer_science": 89
+    },
+    {
+        "biology": 85,
+        "science": 97,
+        "physics": 61
+    },
+    {
+        "history": 90,
+        "geography": 50,
+        "economics": 66
+    },
+    {
+        "economics": 99,
+        "biology": 72,
+        "history": 71
+    },
+    {
+        "history": 50,
+        "geography": 85,
+        "physics": 93
+    },
+    {
+        "music": 87,
+        "geography": 90,
+        "science": 54
+    },
+    {
+        "science": 70,
+        "biology": 77,
+        "literature": 90
+    },
+    {
+        "geography": 61,
+        "science": 72,
+        "history": 55
+    },
+    {
+        "economics": 56,
+        "chemistry": 60,
+        "history": 56
+    },
+    {
+        "geography": 87,
+        "chemistry": 99,
+        "physics": 97
+    },
+    {
+        "math": 64,
+        "chemistry": 63,
+        "history": 87
+    },
+    {
+        "literature": 65,
+        "art": 100,
+        "science": 56
+    },
+    {
+        "computer_science": 100,
+        "literature": 80,
+        "math": 78
+    },
+    {
+        "history": 72,
+        "economics": 55,
+        "biology": 75
+    },
+    {
+        "chemistry": 99,
+        "science": 100,
+        "biology": 59
+    },
+    {
+        "music": 72,
+        "biology": 62,
+        "literature": 73
+    },
+    {
+        "computer_science": 82,
+        "art": 75,
+        "science": 63
+    },
+    {
+        "computer_science": 69,
+        "chemistry": 65,
+        "music": 99
+    },
+    {
+        "math": 76,
+        "science": 99,
+        "economics": 91
+    },
+    {
+        "literature": 80,
+        "biology": 71,
+        "chemistry": 63
+    },
+    {
+        "music": 97,
+        "literature": 55,
+        "history": 95
+    },
+    {
+        "math": 98,
+        "computer_science": 82,
+        "biology": 77
+    },
+    {
+        "music": 75,
+        "science": 84,
+        "geography": 74
+    },
+    {
+        "science": 81,
+        "literature": 69,
+        "chemistry": 74
+    },
+    {
+        "math": 58,
+        "biology": 61,
+        "geography": 58
+    },
+    {
+        "history": 79,
+        "math": 92,
+        "chemistry": 89
+    },
+    {
+        "physics": 91,
+        "biology": 57,
+        "history": 88
+    },
+    {
+        "history": 80,
+        "biology": 96,
+        "geography": 93
+    },
+    {
+        "biology": 92,
+        "math": 53,
+        "literature": 80
+    },
+    {
+        "biology": 95,
+        "math": 80,
+        "chemistry": 75
+    },
+    {
+        "music": 80,
+        "science": 97,
+        "computer_science": 76
+    },
+    {
+        "chemistry": 86,
+        "art": 65,
+        "music": 56
+    },
+    {
+        "history": 51,
+        "physics": 71,
+        "geography": 99
+    },
+    {
+        "physics": 91,
+        "literature": 91,
+        "geography": 75
+    },
+    {
+        "music": 59,
+        "computer_science": 51,
+        "science": 66
+    },
+    {
+        "literature": 91,
+        "science": 64,
+        "history": 50
+    },
+    {
+        "economics": 63,
+        "biology": 69,
+        "music": 72
+    },
+    {
+        "chemistry": 73,
+        "science": 67,
+        "history": 80
+    },
+    {
+        "history": 71,
+        "biology": 62,
+        "geography": 98
+    },
+    {
+        "economics": 81,
+        "chemistry": 82,
+        "biology": 53
+    },
+    {
+        "physics": 77,
+        "computer_science": 50,
+        "literature": 85
+    },
+    {
+        "geography": 82,
+        "science": 92,
+        "math": 70
+    },
+    {
+        "geography": 100,
+        "music": 59,
+        "economics": 68
+    },
+    {
+        "literature": 66,
+        "math": 78,
+        "music": 89
+    },
+    {
+        "economics": 89,
+        "geography": 59,
+        "literature": 64
+    },
+    {
+        "math": 97,
+        "biology": 63,
+        "geography": 69
+    },
+    {
+        "geography": 93,
+        "math": 77,
+        "history": 54
+    }
+]

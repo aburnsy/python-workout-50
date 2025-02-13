@@ -1,0 +1,47 @@
+andy says: 
+andy says: isdigit() - "123".isdigit() - True
+andy says: all - Built in functions from Python -> https://docs.python.org/3/library/functions.html
+andy says: any - similar to above
+andy says: 
+andy says: Consider generating an list using your own supplied integers
+andy says: grid = [[1,2,3],[4,5,6],[7,8,9]]
+andy says: [grid[k][j] for k in [-1,0,1] for j in [-1,0,1]]
+andy says: 
+andy says: 
+andy says: range(0,10,1)
+andy says: array[0:5] -> This won't give you a range exception
+andy says: array[0][0]
+andy says: 
+andy says: for x in str(n) -> this will split the string. Don't put it into an array or else it will only return the string version of that int
+andy says: 
+andy says: ord() returns unicode char representation of string
+andy says: return A[(len(A)-1)//2]
+andy says: 
+andy says: from itertools import permutations
+andy says: for permutation in permutations(inputArray):
+andy says: 
+andy says: del array[k-1::k]
+andy says: 
+andy says: return max([sum(x) for x in zip(*[inputArray[i:] for i in range(k)])])
+andy says: -> *unpacks the array for use in zip
+andy says: 
+andy says: This solution iterates through values in the array, adding 1 number and subtracting 1 number
+andy says: s = max = sum(inputArray[:k])
+andy says: for i in range(k, len(inputArray)):
+andy says: s += inputArray[i] - inputArray[i-k]
+andy says: if s > max: max = s
+andy says: return max
+andy says: 
+andy says: growth + decline problem
+andy says: return math.ceil((desiredHeight - upSpeed) / (upSpeed - downSpeed) + 1)
+andy says: 
+andy says: palindromes  result != result[::-1]
+andy says: start from left and add [:i][::-1] on to the end
+andy says: 
+andy says: from itertools import groupby -> provides a list of tuples with character and array of characers
+andy says: 
+andy says: re.findall(r'((\w)\2*)', s)
+andy says: 
+andy says: 
+andy says: https://docs.python.org/3/library/operator.html#operator.itemgetter
+andy says: itemgetter returns a callable itemgetter(item) that returns item for the passed in iterator object
